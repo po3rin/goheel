@@ -1,0 +1,50 @@
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [warn] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [warning] Apache/2.2.32 (Unix) DAV/2 configured -- resuming normal operations
+[Sun Jul 09 04:06:13 2017] [error] [client 1.2.3.4] File does not exist: /var/www/html/robots.txt
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [warning] Apache/2.2.32 (Unix) DAV/2 configured -- resuming normal operations
+[Sun Jul 09 04:06:13 2017] [Error] [client 1.2.3.4] File does not exist: /var/www/html/robots.txt
+[Sun Jul 09 04:06:13 2017] [error] [client 1.2.3.4] File does not exist: /var/www/html/robots.txt
+[Sun Jul 09 03:25:02 2017] [warning] Apache/2.2.32 (Unix) DAV/2 configured -- resuming normal operations
+[Sun Jul 09 04:06:13 2017] [Error] [client 1.2.3.4] File does not exist: /var/www/html/robots.txt
+[Sun Jul 09 03:25:02 2017] [warning] Apache/2.2.32 (Unix) DAV/2 configured -- resuming normal operations
+[Sun Jul 09 03:25:02 2017] [warning] Apache/2.2.32 (Unix) DAV/2 configured -- resuming normal operations
+[Sun Jul 09 04:06:13 2017] [Error] [client 1.2.3.4] File does not exist: /var/www/html/robots.txt
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [warning] Apache/2.2.32 (Unix) DAV/2 configured -- resuming normal operations
+[Sun Jul 09 04:06:13 2017] [Error] [client 1.2.3.4] File does not exist: /var/www/html/robots.txt
+[Sun Jul 09 03:25:02 2017] [warning] Apache/2.2.32 (Unix) DAV/2 configured -- resuming normal operations
+[Sun Jul 09 04:06:13 2017] [Error] [client 1.2.3.4] File does not exist: /var/www/html/robots.txt
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 04:06:13 2017] [Error] [client 1.2.3.4] File does not exist: /var/www/html/robots.txt
+[Sun Jul 09 04:06:13 2017] [Error] [client 1.2.3.4] File does not exist: /var/www/html/robots.txt
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 04:06:13 2017] [Error] [client 1.2.3.4] File does not exist: /var/www/html/robots.txt
+[Sun Jul 09 03:25:02 2017] [warning] Apache/2.2.32 (Unix) DAV/2 configured -- resuming normal operations
+[Sun Jul 09 03:25:02 2017] [warning] Apache/2.2.32 (Unix) DAV/2 configured -- resuming normal operations
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 04:06:13 2017] [Error] [client 1.2.3.4] File does not exist: /var/www/html/robots.txt
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [warning] Apache/2.2.32 (Unix) DAV/2 configured -- resuming normal operations
+[Sun Jul 09 03:25:02 2017] [warning] Apache/2.2.32 (Unix) DAV/2 configured -- resuming normal operations
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [error] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 03:25:02 2017] [info] Apache/2.2.32 (Unix) DAV/2 configured --
+[Sun Jul 09 04:06:13 2017] [Error] [client 1.2.3.4] File does not exist: /var/www/html/robots.txt
+[Sun Jul 09 03:25:02 2017] [warning] Apache/2.2.32 (Unix) DAV/2 configured -- resuming normal operations
+[Sun Jul 09 03:25:02 2017] [Warn] Apache/2.2.32 (Unix) DAV/2 configured --
